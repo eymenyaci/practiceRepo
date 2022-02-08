@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/bin/Debug/net6.0/operators
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/bin/Debug/net6.0/operators.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/bin/Debug/net6.0/operators.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/bin/Debug/net6.0/operators.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/bin/Debug/net6.0/ref/operators.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/bin/Debug/net6.0/operators.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/ref/operators.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/operators/obj/Debug/net6.0/operators.genruntimeconfig.cache
