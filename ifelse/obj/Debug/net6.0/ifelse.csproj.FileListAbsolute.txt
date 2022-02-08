@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/bin/Debug/net6.0/ifelse
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/bin/Debug/net6.0/ifelse.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/bin/Debug/net6.0/ifelse.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/bin/Debug/net6.0/ifelse.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/bin/Debug/net6.0/ref/ifelse.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/bin/Debug/net6.0/ifelse.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ref/ifelse.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/ifelse/obj/Debug/net6.0/ifelse.genruntimeconfig.cache
