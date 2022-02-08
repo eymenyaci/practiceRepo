@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/bin/Debug/net6.0/try-catch-finally
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/bin/Debug/net6.0/try-catch-finally.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/bin/Debug/net6.0/try-catch-finally.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/bin/Debug/net6.0/try-catch-finally.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/bin/Debug/net6.0/ref/try-catch-finally.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/bin/Debug/net6.0/try-catch-finally.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/ref/try-catch-finally.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/try-catch-finally/obj/Debug/net6.0/try-catch-finally.genruntimeconfig.cache
