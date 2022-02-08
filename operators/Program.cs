@@ -40,6 +40,8 @@ namespace operators
                Console.WriteLine("Durumlar Aynı!");
            }
 
+           
+
 
 
            
