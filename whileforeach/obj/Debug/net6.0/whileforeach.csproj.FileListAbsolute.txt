@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/bin/Debug/net6.0/whileforeach
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/bin/Debug/net6.0/whileforeach.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/bin/Debug/net6.0/whileforeach.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/bin/Debug/net6.0/whileforeach.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/bin/Debug/net6.0/ref/whileforeach.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/bin/Debug/net6.0/whileforeach.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/ref/whileforeach.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/whileforeach/obj/Debug/net6.0/whileforeach.genruntimeconfig.cache
