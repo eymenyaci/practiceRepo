@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/bin/Debug/net6.0/diziler
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/bin/Debug/net6.0/diziler.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/bin/Debug/net6.0/diziler.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/bin/Debug/net6.0/diziler.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/bin/Debug/net6.0/ref/diziler.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/bin/Debug/net6.0/diziler.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/ref/diziler.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/diziler/obj/Debug/net6.0/diziler.genruntimeconfig.cache
