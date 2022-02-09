@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/bin/Debug/net6.0/loops
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/bin/Debug/net6.0/loops.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/bin/Debug/net6.0/loops.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/bin/Debug/net6.0/loops.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/bin/Debug/net6.0/ref/loops.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/bin/Debug/net6.0/loops.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/ref/loops.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/loops/obj/Debug/net6.0/loops.genruntimeconfig.cache
