@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/bin/Debug/net6.0/switchcase
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/bin/Debug/net6.0/switchcase.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/bin/Debug/net6.0/switchcase.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/bin/Debug/net6.0/switchcase.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/bin/Debug/net6.0/ref/switchcase.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/bin/Debug/net6.0/switchcase.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/ref/switchcase.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/switchcase/obj/Debug/net6.0/switchcase.genruntimeconfig.cache
