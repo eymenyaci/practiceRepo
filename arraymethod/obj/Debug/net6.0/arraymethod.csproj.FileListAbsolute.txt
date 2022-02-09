@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/bin/Debug/net6.0/arraymethod
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/bin/Debug/net6.0/arraymethod.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/bin/Debug/net6.0/arraymethod.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/bin/Debug/net6.0/arraymethod.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/bin/Debug/net6.0/ref/arraymethod.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/bin/Debug/net6.0/arraymethod.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/ref/arraymethod.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/arraymethod/obj/Debug/net6.0/arraymethod.genruntimeconfig.cache
