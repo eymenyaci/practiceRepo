@@ -14,47 +14,58 @@ using System;
 
 class Result
 {
-
-    /*
-     * Complete the 'birthdayCakeCandles' function below.
-     *
-     * The function is expected to return an INTEGER.
-     * The function accepts INTEGER_ARRAY candles as parameter.
-     */
-
-    public static int birthdayCakeCandles(List<int> candles)
-    {
-        candles.Sort();
-        candles.Reverse();
-        int maxheigh = candles[0];
-        int maxcandleunit=0;
-        int length = candles.Count();
-        for (int i=0;i<length;i++)
+      public static int migratoryBirds(List<int> arr)
+    {   
+        List<int> tempList = new List<int>();
+        int gecicitekrar = 1;
+        int kalicitekrar = 0;
+        int sayi = 0;
+        for (int z = 0; z < arr.Count(); z++)
         {
-            if (candles[i]==maxheigh)
-            {
-                maxcandleunit++;
-            }
+            tempList.Add(arr[z]);
             
-
         }
-        return maxcandleunit;
+        for (int i = 0; i < arr.Count()-1; i++)
+        {   var temp = tempList[0];
+            tempList.Remove(tempList[0]);
+            for (int j = 0; j < arr.Count()-1; j++)
+            {
+                if (arr[i]==tempList[j])
+                {
+                    gecicitekrar++;
+                }
+            }
+            if (gecicitekrar>kalicitekrar)
+            {
+                kalicitekrar=gecicitekrar;
+                sayi=arr[i];
+            }
+            else if (gecicitekrar==kalicitekrar && arr[i]<sayi)
+            {
+                sayi=arr[i];
 
+
+            }
+            gecicitekrar = 1;
+            tempList.Add(temp);
+
+            
+        }
+        return sayi;     
     }
 
 }
-
 class Solution
 {
     public static void Main(string[] args)
     {
         TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-        int candlesCount = Convert.ToInt32(Console.ReadLine().Trim());
+        int arrCount = Convert.ToInt32(Console.ReadLine().Trim());
 
-        List<int> candles = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(candlesTemp => Convert.ToInt32(candlesTemp)).ToList();
+        List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
 
-        int result = Result.birthdayCakeCandles(candles);
+        int result = Result.migratoryBirds(arr);
 
         textWriter.WriteLine(result);
 
