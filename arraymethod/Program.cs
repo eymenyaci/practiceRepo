@@ -13,18 +13,20 @@ using System.Text;
 using System;
 
 class Result
-{
+{   
       public static int migratoryBirds(List<int> arr)
     {   
         List<int> tempList = new List<int>();
         int gecicitekrar = 1;
         int kalicitekrar = 0;
         int sayi = 0;
+        //second list created.
         for (int z = 0; z < arr.Count(); z++)
         {
             tempList.Add(arr[z]);
             
         }
+        
         for (int i = 0; i < arr.Count()-1; i++)
         {   var temp = tempList[0];
             tempList.Remove(tempList[0]);
