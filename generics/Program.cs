@@ -1,33 +1,28 @@
 ﻿using System;
+using System.Collections.Generic; // <--- !
 
 class Printer
 {
-
-	public static void PrintArray<T>(T[] arr)
-    {
-        foreach (var item in arr)
-        {
-            Console.WriteLine(item);
-        }
-    }
-
     static void Main(string[] args)
 	{
-		int n = Convert.ToInt32(Console.ReadLine());
-		int[] intArray = new int[n];
-		for (int i = 0; i < n; i++)
-		{
-			intArray[i] = Convert.ToInt32(Console.ReadLine());
-		}
+		List<int> posiviteNumberList = new List<int>();
 		
-		n = Convert.ToInt32(Console.ReadLine());
-		string[] stringArray = new string[n];
-		for (int i = 0; i < n; i++)
+		while(true)
 		{
-			stringArray[i] = Console.ReadLine();
+			int number = Convert.ToInt32(Console.ReadLine());
+			if (number>0)
+			{
+				posiviteNumberList.Add(number);
+			}
+			else break;
 		}
+		// foreach (var item in posiviteNumberList)
+		// {
+		// 	Console.Write(item+" ");
+			
+		// }
 		
-		PrintArray<Int32>(intArray);
-		PrintArray<String>(stringArray);
+		
 	}
+	
 }
