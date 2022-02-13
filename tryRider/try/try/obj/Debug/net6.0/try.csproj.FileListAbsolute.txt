@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/bin/Debug/net6.0/try
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/bin/Debug/net6.0/try.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/bin/Debug/net6.0/try.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/bin/Debug/net6.0/try.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/bin/Debug/net6.0/ref/try.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/bin/Debug/net6.0/try.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/ref/try.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/tryRider/try/try/obj/Debug/net6.0/try.genruntimeconfig.cache
