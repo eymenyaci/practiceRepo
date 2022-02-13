@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/bin/Debug/net6.0/mathAndDatetime
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/bin/Debug/net6.0/mathAndDatetime.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/bin/Debug/net6.0/mathAndDatetime.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/bin/Debug/net6.0/mathAndDatetime.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/bin/Debug/net6.0/ref/mathAndDatetime.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/bin/Debug/net6.0/mathAndDatetime.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/ref/mathAndDatetime.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/mathAndDatetime/obj/Debug/net6.0/mathAndDatetime.genruntimeconfig.cache
