@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/bin/Debug/net6.0/readyMethods
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/bin/Debug/net6.0/readyMethods.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/bin/Debug/net6.0/readyMethods.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/bin/Debug/net6.0/readyMethods.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/bin/Debug/net6.0/ref/readyMethods.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/bin/Debug/net6.0/readyMethods.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/ref/readyMethods.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/readyMethods/obj/Debug/net6.0/readyMethods.genruntimeconfig.cache
