@@ -23,11 +23,10 @@ namespace classes
              * * Protected
              *
                 */
-            employee employee1 = new employee();
-            employee1.name = "Gizem";
-            employee1.surname = "Kılıç";
-            employee1.no = 12345678;
-            employee1.department = "Media";
+            
+            //Kurucu metot ile ekleme.
+            employee employee1 = new employee("Gizem","Kılıç",12345678,"Media");
+           
             
             employee employee2 = new employee();
             employee2.name = "Eymen Batın";
@@ -35,9 +34,13 @@ namespace classes
             employee2.no = 12345672;
             employee2.department = "Software";
             
+            employee employee3 = new employee("Ramazan","Akyol");
+            
             employee1.employeeInfo();
             Console.WriteLine();
             employee2.employeeInfo();
+            Console.WriteLine();
+            employee3.employeeInfo();
             
             
 
@@ -49,6 +52,24 @@ namespace classes
             public string surname;
             public int no;
             public string department;
+            
+            //Yapıcı metot ile tüm bilgileri get ve set ettik.
+            public employee(string name, string surname, int no,string department)
+            {
+                this.name = name;
+                this.surname = surname;
+                this.no = no;
+                this.department = department;
+            }
+            //Aşırı Yükleme yaptık ve çalışanın sadece adı ve soyadının set edilmesine izin verdik.
+            public employee(string name, string surname)
+            {
+                this.name = name;
+                this.surname = surname;
+               
+            }
+            
+            public employee(){}
 
             public void employeeInfo()
             {
