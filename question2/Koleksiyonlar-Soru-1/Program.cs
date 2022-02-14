@@ -14,7 +14,7 @@ namespace question1
             int asalToplam = 0;
             int asalOlmayanToplam = 0;
 
-            while (kontrol<20)
+            while (kontrol<5)
             {   
                 Console.WriteLine("Pozitif bir sayı giriniz : ");
                 int sayi = Convert.ToInt32(Console.ReadLine());
