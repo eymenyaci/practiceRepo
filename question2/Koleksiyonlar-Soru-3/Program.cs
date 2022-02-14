@@ -24,7 +24,7 @@ namespace question3
                         if (textVowel.Contains(vowel[j]))
                         {
                             break;
-                            
+
                         }
                         else
                         {

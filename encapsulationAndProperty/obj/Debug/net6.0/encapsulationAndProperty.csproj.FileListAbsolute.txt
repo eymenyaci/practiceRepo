@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/bin/Debug/net6.0/encapsulationAndProperty
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/bin/Debug/net6.0/encapsulationAndProperty.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/bin/Debug/net6.0/encapsulationAndProperty.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/bin/Debug/net6.0/encapsulationAndProperty.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/bin/Debug/net6.0/ref/encapsulationAndProperty.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/bin/Debug/net6.0/encapsulationAndProperty.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/ref/encapsulationAndProperty.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/encapsulationAndProperty/obj/Debug/net6.0/encapsulationAndProperty.genruntimeconfig.cache
