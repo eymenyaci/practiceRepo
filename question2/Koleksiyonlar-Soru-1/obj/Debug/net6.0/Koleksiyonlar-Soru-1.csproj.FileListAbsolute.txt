@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/bin/Debug/net6.0/Koleksiyonlar-Soru-1
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/bin/Debug/net6.0/Koleksiyonlar-Soru-1.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/bin/Debug/net6.0/Koleksiyonlar-Soru-1.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/bin/Debug/net6.0/Koleksiyonlar-Soru-1.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/bin/Debug/net6.0/ref/Koleksiyonlar-Soru-1.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/bin/Debug/net6.0/Koleksiyonlar-Soru-1.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/ref/Koleksiyonlar-Soru-1.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/question2/Koleksiyonlar-Soru-1/obj/Debug/net6.0/Koleksiyonlar-Soru-1.genruntimeconfig.cache
