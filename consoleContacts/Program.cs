@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection.Metadata;
 
 namespace question
 {
@@ -18,6 +19,7 @@ namespace question
     }
     class Contact
     {
+        
         public string name;
         public string surname;
         public string phoneNumber;
@@ -46,6 +48,7 @@ namespace question
 
     class ContactCommands : Contacts
     {
+        
         public void AddContact()
         {
             
@@ -61,26 +64,74 @@ namespace question
             
         }
 
+        
         public void deleteContact()
+        {
+            
+            Console.WriteLine("********************************************************************************");
+            Console.WriteLine("Lütfen numarasını silmek istediğiniz kişinin adını ya da soyadını giriniz :");
+            bool answerControl = true;
+            string text = Console.ReadLine();
+            for (int i = 0; i < contactList.Count; i++)
+            {
+                if (text == contactList[i].name || text == contactList[i].surname)
+                {
+                    Console.WriteLine("{0} {1} isimli kişi rehberden silinecek. Onaylıyor musun ? (y/n)"
+                        ,contactList[i].name,contactList[i].surname);
+                    string answer = Console.ReadLine();
+                    if (answer == "y")
+                    {   
+                        contactList.RemoveAt(i);
+                        
+
+                    }
+
+                }
+                
+            }
+            
+        }
+
+        public void updateContact()
         {
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("Lütfen numarasını silmek istediğiniz kişinin adını ya da soyadını giriniz :");
             string text = Console.ReadLine();
             for (int i = 0; i < contactList.Count; i++)
             {
-                if (text == )
+                if (text == contactList[i].name || text == contactList[i].surname)
+                {
+                    Console.WriteLine("{0} {1} kişisinin telefon numarası : ({2}) ",contactList[i].name
+                        ,contactList[i].surname,contactList[i].phoneNumber);
+                    Console.Write("Lütfen isim giriniz              : ");
+                    string _name = Console.ReadLine();
+                    Console.Write("Lütfen soyisim giriniz           : ");
+                    string _surname = Console.ReadLine();
+                    Console.Write("Lütfen telefon numarası giriniz  : ");
+                    string _phoneNumber = Console.ReadLine();
+                    contactList[i].name = _name;
+                    contactList[i].surname = _surname;
+                    contactList[i].phoneNumber = _phoneNumber;
+
+
+                }
             }
+            
         }
+        
         public void listedContact()
         {
-            defaultContacts();
+           
+            
             Console.WriteLine("********************************************************************************");
             for (int i = 0; i < contactList.Count; i++)
             {
                 Console.WriteLine("Ad : {0} "+" -> Soyad : {1}"+" -> Telefon Numarası : {2}",
                     contactList[i].name,contactList[i].surname,contactList[i].phoneNumber);
             }
+            
             Console.WriteLine("********************************************************************************");
+            
             
             
         }
@@ -91,10 +142,12 @@ namespace question
     class Solution
     {
         public static void Main(string[] args)
-        {
+        {   
             Interface welcome = new Interface();
             welcome.WelcomeMethod();
             ContactCommands cmd = new ContactCommands();
+            cmd.defaultContacts();
+            
             while (true)
             {   
                 string enter = Console.ReadLine();
@@ -110,6 +163,10 @@ namespace question
                 else if (enter == "2")
                 {
                     cmd.deleteContact();
+                }
+                else if (enter == "3")
+                {
+                    cmd.updateContact();
                 }
                 else if (enter == "4")
                 {
