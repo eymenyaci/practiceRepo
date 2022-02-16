@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/bin/Debug/net6.0/toDoApp
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/bin/Debug/net6.0/toDoApp.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/bin/Debug/net6.0/toDoApp.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/bin/Debug/net6.0/toDoApp.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/bin/Debug/net6.0/ref/toDoApp.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/bin/Debug/net6.0/toDoApp.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/ref/toDoApp.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/toDoApp/obj/Debug/net6.0/toDoApp.genruntimeconfig.cache
