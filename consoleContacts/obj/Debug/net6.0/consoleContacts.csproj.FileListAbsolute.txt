@@ -1,0 +1,15 @@
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/bin/Debug/net6.0/consoleContacts
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/bin/Debug/net6.0/consoleContacts.deps.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/bin/Debug/net6.0/consoleContacts.runtimeconfig.json
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/bin/Debug/net6.0/consoleContacts.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/bin/Debug/net6.0/ref/consoleContacts.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/bin/Debug/net6.0/consoleContacts.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.csproj.AssemblyReference.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.AssemblyInfoInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.AssemblyInfo.cs
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.csproj.CoreCompileInputs.cache
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/ref/consoleContacts.dll
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.pdb
+/Users/eymenyaci/Desktop/ebyc/dotnetpractice/consoleContacts/obj/Debug/net6.0/consoleContacts.genruntimeconfig.cache
