@@ -72,11 +72,11 @@ namespace toDoApp
             {
                 for (int i = 0; i < todoLine.Count; i++)
                 {     
-                Console.WriteLine("Başlık           : {0}",todoLine[i].title);
-                Console.WriteLine("İçerik           : {0}",todoLine[i].content);
-                Console.WriteLine("Atanan Kişi      : {0}",todoLine[i].user);
-                Console.WriteLine("Zaman            : {0}",todoLine[i].size);
-                Console.WriteLine("-");
+                    Console.WriteLine("Başlık           : {0}",todoLine[i].title);
+                    Console.WriteLine("İçerik           : {0}",todoLine[i].content);
+                    Console.WriteLine("Atanan Kişi      : {0}",todoLine[i].user);
+                    Console.WriteLine("Zaman            : {0}",todoLine[i].size);
+                    Console.WriteLine("-");
                 }
             }
             Console.WriteLine("**************************************************************************" +
@@ -125,9 +125,106 @@ namespace toDoApp
             Console.WriteLine("**************************************************************************" +
                               "*****************************************************");
             
-           
+        }
+
+       
+
+        public void addBoard()
+        {
+            Interface ıf = new Interface();
+            
+            Console.Write("Başlık Giriniz                                                 : ");
+            string _title = Console.ReadLine();
+            Console.Write("İçerik Giriniz                                                 : ");
+            string _content = Console.ReadLine();
+            Console.Write("Gün Sayısı Giriniz                                             : ");
+            string _size = Console.ReadLine();
+            Console.Write("Kişi Seçiniz -> Eymen (1), Ali (2), Emirhan (3) seçiniz.       : ");
+            int _id = Convert.ToInt32(Console.ReadLine());
+            string name = "Eymen";
+            if (_id == 1)
+            {
+                 name = "Eymen";
+            }
+            else if (_id == 2)
+            {
+                 name = "Ali";
+            }
+            else if (_id == 3)
+            {
+                 name = "Emirhan";
+            }
+            else
+            {
+                 name = "Eymen";
+            }
+            todoLine.Add(new CardInfo(_id,_title,_content,name,_size));
+            Console.WriteLine("**************************************************************************" +
+                              "*****************************************************");
+            Console.WriteLine("{0} başlıklı kart {1} kişisine atandı.",_title,name);
+            Console.WriteLine("**************************************************************************" +
+                              "*****************************************************");
+            ıf.welcome();
             
             
+        }
+
+        public void deleteBoard()
+        {
+            Console.WriteLine("Öncelikle silmek istediğiniz kart tipini seçmeniz gerekiyor.");
+            Console.Write("TODO Line (1), IN PROGRESS Line (2), DONE Line (3) : ");
+            string answer = Console.ReadLine();
+            if (answer == "1")
+            {
+                Console.Write("Lütfen kart başlığını yazınız : ");
+                string _title = Console.ReadLine();
+                for (int i = 0; i < todoLine.Count; i++)
+                {
+                    if (todoLine[i].title == _title)
+                    {
+                        todoLine.RemoveAt(i);
+                    }
+                }
+                Console.WriteLine("**************************************************************************" +
+                                  "*****************************************************");
+                Console.WriteLine("{0} başlıklı kart silindi.",_title);
+                Console.WriteLine("**************************************************************************" +
+                                  "*****************************************************");
+            }
+            if (answer == "2")
+            {
+                Console.Write("Lütfen kart başlığını yazınız : ");
+                string _title = Console.ReadLine();
+                for (int i = 0; i < progressline.Count; i++)
+                {
+                    if (progressline[i].title == _title)
+                    {
+                        progressline.RemoveAt(i);
+                    }
+                }
+                Console.WriteLine("**************************************************************************" +
+                                  "*****************************************************");
+                Console.WriteLine("{0} başlıklı kart silindi.",_title);
+                Console.WriteLine("**************************************************************************" +
+                                  "*****************************************************");
+            }
+            if (answer == "3")
+            {
+                Console.Write("Lütfen kart başlığını yazınız : ");
+                string _title = Console.ReadLine();
+                for (int i = 0; i < doneLine.Count; i++)
+                {
+                    if (doneLine[i].title == _title)
+                    {
+                        doneLine.RemoveAt(i);
+                    }
+                }
+                Console.WriteLine("**************************************************************************" +
+                                  "*****************************************************");
+                Console.WriteLine("{0} başlıklı kart silindi.",_title);
+                Console.WriteLine("**************************************************************************" +
+                                  "*****************************************************");
+            }
             
         }
     }
@@ -150,16 +247,14 @@ namespace toDoApp
                 else if (select == "1")
                 {
                     crd.boardList();
-                    
-                    
                 }
                 else if (select == "2")
                 {
-                    
+                     crd.addBoard();   
                 }
                 else if (select == "3")
                 {
-                    
+                    crd.deleteBoard();
                 }
                 else if (select == "4")
                 {
